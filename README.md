@@ -36,6 +36,8 @@ Below is the output screenshot of the Cricket Score Predictor in action:
 
 ---
 
-## 📬 Contact
-👤 **Zahid Shaikh**  
-🔗 [LinkedIn](https://www.linkedin.com/in/skzahid90281/)
+## 👤 Author
+**Zahid Shaikh**  
+- LinkedIn: [https://www.linkedin.com/in/skzahid90281/](https://www.linkedin.com/in/skzahid90281/)
+
+---
