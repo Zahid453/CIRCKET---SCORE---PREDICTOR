@@ -27,14 +27,10 @@ This project predicts the cricket score based on match conditions and input feat
 - **Scikit-learn** (`scikit-learn==1.3.2`)
 - **Streamlit** (`streamlit`)
 
----
-
 ## 📸 Output
-Below is the output screenshot of the Cricket Score Predictor in action:
-
-![Output Screenshot](Oput.jpg)
-
----
+<p align="center">
+  <img src="Ouput.jpg" alt="Output Screenshot" width="600">
+</p>
 
 ## 👤 Author
 **Zahid Shaikh**  
