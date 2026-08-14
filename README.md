@@ -37,10 +37,10 @@ This project predicts the cricket score based on match conditions and input feat
 The same prediction logic and UI was also rebuilt with **Flask** and packaged into a single standalone `.exe` using PyInstaller — no Python install needed, just double-click and it opens in the browser locally. The Flask source isn't included in this repo (this repo stays Streamlit-focused); the packaged app is available as a direct download below.
 
 <p align="center">
-  <img src="dist/output.jpg" alt="Flask App Output" width="600">
+  <img src="dist/output.png" alt="Flask App Output" width="600">
 </p>
 
-**Download:** *dist/Circket_Score_Predictor.exe*
+**Download:** [Cricket_Score_Predictor.exe](https://github.com/Zahid453/CIRCKET---SCORE---PREDICTOR/raw/main/dist/Cricket_Score_Predictor.exe)
 
 ## 👤 Author
 **Zahid Shaikh**  
