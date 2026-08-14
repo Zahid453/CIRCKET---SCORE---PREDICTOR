@@ -32,6 +32,16 @@ This project predicts the cricket score based on match conditions and input feat
   <img src="Ouput.jpg" alt="Output Screenshot" width="600">
 </p>
 
+## 🖥️ Also available as a standalone Windows app (.exe)
+
+The same prediction logic and UI was also rebuilt with **Flask** and packaged into a single standalone `.exe` using PyInstaller — no Python install needed, just double-click and it opens in the browser locally. The Flask source isn't included in this repo (this repo stays Streamlit-focused); the packaged app is available as a direct download below.
+
+<p align="center">
+  <img src="dist/Flask_Output.jpg" alt="Flask App Output" width="600">
+</p>
+
+**Download:** *(link to be added — see the Releases section of this repo)*
+
 ## 👤 Author
 **Zahid Shaikh**  
 - LinkedIn: [https://www.linkedin.com/in/skzahid90281/](https://www.linkedin.com/in/skzahid90281/)
